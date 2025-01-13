@@ -20,7 +20,9 @@ Enhanced proficiency in integrating and managing various operating systems withi
 
 # Tools Used
 
-Wazuh / TheHive: Open-source security monitoring for event analysis and compliance management.
+Wazuh: Open-source security monitoring for event analysis and compliance management.
+
+TheHive: Incident alert system vital to the SOC functionality.
 
 Shuffle: Orchestration platform for automating security tool workflows.
 
